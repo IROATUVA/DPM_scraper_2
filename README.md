@@ -3,7 +3,8 @@
 ## About
 
 This code was taken from the initial repository called Venmo_scraper written by Mohit, but changed up a little bit so the output prints in a pretty manner in the console, rather than sending it to the secretary. It shows all the current DPMs, how much they've paid, and also money made from dues this semester/this year. Unfortunately, while this code works locally on your computer, it can't be put on the [new treasurer website](https://iro-treasurer.herokuapp.com/). A new updated DPM scraper will (hopefully) be written later to solve this.
-THanks! Charlie Meyer
+Thanks! 
+Charlie Meyer
 
 ## Experienced programmers quickstart
 
